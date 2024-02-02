@@ -11,7 +11,7 @@ I'm a software engineer with a degree from the University of Calgary. I'm enthus
 I like programming (duh), sitcoms (How I Met Your Mother is undefeated), and going on hikes (when it's not snowing and -30°)
 
 ## 🌐 Connect with Me:
- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-rupprecht)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-rupprecht)
 
 # 💻 Tech Stack:
 Languages:
