@@ -9,7 +9,7 @@ I'm currently seeking a software engineering internship/full-time opportunity. I
 
 
 ## 🎓 (More) About Me:
-I like programming (duh), sitcoms (How I Met Your Mother is undefeated), and going on hikes (when it's not snowing and -30°)
+I like programming (duh), sitcoms (How I Met Your Mother is undefeated, although some of the jokes are a little dated for 2024), and going on hikes (when it's not snowing and -30°)
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-rupprecht)
