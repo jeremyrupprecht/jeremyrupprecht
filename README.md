@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jeremy Rupprecht</h1>
 
 # 💫 About Me:
-I'm a software engineer with a degree from the University of Calgary. I'm enthusiastic about shaping the digital landscape through front-end and full-stack web development, and committed to delivering robust and innovative web applications for a dynamic online world. 
+I'm a software engineer with a degree from the University of Calgary. I'm enthusiastic about shaping the digital landscape through front-end and full-stack web development, and committed to delivering robust and innovative web applications for a dynamic online world.  
 I'm currently seeking a software engineering internship/full-time opportunity. If it involves problem-solving, I'm there.             
      
 ## 🚀 What I'm Up To: 
